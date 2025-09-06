@@ -11,3 +11,6 @@ _Eon's Insomnium_ è un progetto indie dedicato a creare esperienze immersive e 
 ---
 
 Grazie per l'interesse in _Eon's Insomnium_! Ogni feedback è prezioso per far crescere il progetto e rendere l'esperienza sempre più intensa.
+
+
+P.S. La demo è in uno stato estremamente precario e non rappresenta minimamente la vera visione di Eon’s Insomnium. È solo un piccolo frammento, grezzo e incompleto, rispetto a ciò che vogliamo portare e mostrare al MGW: un’esperienza molto più solida, rifinita e fedele all’idea originale.
